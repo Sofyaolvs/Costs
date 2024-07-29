@@ -1,14 +1,17 @@
 ### 1.Use o comando "npm start" no Node.js
-### 2.Use o comando "npm run backend" no Node.js para através de um API, simular os elementos de banco de dados do projeto
+### 2.Use o comando "npm run backend" para que por uma API seja possível simular os projetos
 
-#### Tela inicial do projeto
-![Animação](https://user-images.githubusercontent.com/107668423/217105590-79f8aac4-da28-49c0-9100-c0d0b29ae98c.gif)
+-> Tela inicial do projeto
+![costs-home](https://github.com/user-attachments/assets/1891640a-5669-4214-b595-732f0dc18103)
 
-#### Cadastrando e visualizando os projetos listados
-![Animação2](https://user-images.githubusercontent.com/107668423/217105620-5351e4fc-14c7-468b-b1e3-524857cbd7e3.gif)
+-> Formulário para cadastrar projetos
+![costs-form](https://github.com/user-attachments/assets/1c3e44d9-f84a-4bb7-a9dc-5b2af799e33a)
+*Existem 4 categorias de projetos para escolher
+![costs-form2](https://github.com/user-attachments/assets/b01c32bf-136a-4f0c-b3f1-07c9cf0c9445)
 
-#### Editando dados do projeto
-![Animação3](https://user-images.githubusercontent.com/107668423/217110905-e5f0a0d6-935c-44f1-897f-1dd9627c2dd2.gif)
+-> Tela com os projetos após serem adicionados
+![costs-projetos](https://github.com/user-attachments/assets/4356d9fd-f4f0-4bd1-a52a-f6ae56d02c51)
 
-#### Adicionando serviços ao projeto selecionado
-![Animação4](https://user-images.githubusercontent.com/107668423/217110923-1b5f8f35-361e-42cb-8ce8-ccdeec4d43a4.gif)
+
+
+<p> Esse projeto foi feito atráves de um curso de react com o intuito de me aprofundar e aprender mais sobre o framework! </p>
